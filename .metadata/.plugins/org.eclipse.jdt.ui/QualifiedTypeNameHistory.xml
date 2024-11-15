@@ -2,7 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.io.Serializable"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="model.entities.Seller"/>
     <fullyQualifiedTypeName name="model.dao.impl.SellerDaoJDBC"/>
     <fullyQualifiedTypeName name="model.dao.DaoFactory"/>
@@ -10,10 +9,14 @@
     <fullyQualifiedTypeName name="com.mysql.jdbc.Connection"/>
     <fullyQualifiedTypeName name="com.mysql.jdbc.PreparedStatement"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
-    <fullyQualifiedTypeName name="model.entities.Department"/>
     <fullyQualifiedTypeName name="java.sql.SQLException"/>
     <fullyQualifiedTypeName name="db.DbException"/>
     <fullyQualifiedTypeName name="db.DB"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="model.entities.Department"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
